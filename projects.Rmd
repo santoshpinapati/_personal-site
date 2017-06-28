@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+I like to share some of the projects related to R which i found interesting and share my experience to the world.
+
+## [Project ideas related to R] (https://www.r-project.org/other-projects.html)
+
+It shows the list of projects available in different fields.
