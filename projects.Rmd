@@ -6,4 +6,6 @@ I like to share some of the projects related to R which i found interesting and 
 
 ## [Project ideas related to R] (https://www.r-project.org/other-projects.html)
 
-It shows the list of projects available in different fields.
+It shows the list of R projects available in different fields.
+
+## [Projects related to python] ()
