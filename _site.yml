@@ -9,3 +9,8 @@ navbar:
     href: https://www.r-project.org/about.html
   - text: "About Me"
     href: about.html
+    
+output:
+ html_document:
+  theme: flatly
+  css: style.css
