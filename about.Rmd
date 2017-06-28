@@ -2,6 +2,6 @@
 title: "About Me"
 ---
 
-Happy to build website for myself.
+Learning "Big Data Analytics" instead of doing nothing.
 
 ![](https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-1/p200x200/18057719_1392838727442284_7507295645464801417_n.jpg?oh=299e01a43e792d4690530c047e61696c&oe=59E134A0)
